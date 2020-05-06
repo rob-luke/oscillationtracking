@@ -6,7 +6,7 @@ oscillationtracking
 .. image:: https://img.shields.io/pypi/v/oscillationtracking.svg
         :target: https://pypi.python.org/pypi/oscillationtracking
 
-.. image:: https://img.shields.io/travis/rob-luke/oscillationtracking.svg
+.. image:: https://travis-ci.com/rob-luke/oscillationtracking.svg?branch=master
         :target: https://travis-ci.com/rob-luke/oscillationtracking
 
 .. image:: https://readthedocs.org/projects/oscillationtracking/badge/?version=latest
