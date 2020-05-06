@@ -3,9 +3,6 @@ oscillationtracking
 ===================
 
 
-.. image:: https://img.shields.io/pypi/v/oscillationtracking.svg
-        :target: https://pypi.python.org/pypi/oscillationtracking
-
 .. image:: https://travis-ci.com/rob-luke/oscillationtracking.svg?branch=master
         :target: https://travis-ci.com/rob-luke/oscillationtracking
 
