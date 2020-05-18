@@ -4,12 +4,6 @@ oscillationtracking
 .. toctree::
    :maxdepth: 4
 
-   oscillationtracking
-
-
-
-Reading raw data
-================
 
 :py:mod:`oscillationtracking.simulation`:
 
@@ -18,8 +12,5 @@ Reading raw data
 .. automodule:: oscillationtracking.simulation
    :no-members:
    :no-inherited-members:
-
-.. autosummary::
-   :toctree: generated/
 
    sinusoid
