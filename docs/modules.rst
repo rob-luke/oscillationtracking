@@ -1,16 +1,21 @@
-oscillationtracking
-===================
+##########
+Module API
+##########
+
+.. currentmodule:: oscillationtracking
 
 .. toctree::
-   :maxdepth: 4
 
-
-:py:mod:`oscillationtracking.simulation`:
+Experimental Design and Analysis
+--------------------------------
 
 .. currentmodule:: oscillationtracking.simulation
 
 .. automodule:: oscillationtracking.simulation
    :no-members:
    :no-inherited-members:
+
+.. autosummary::
+   :toctree: generated/
 
    sinusoid
