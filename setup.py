@@ -12,9 +12,9 @@ with open('HISTORY.rst') as history_file:
 
 requirements = ['numpy']
 
-setup_requirements = ['pytest-runner', ]
+setup_requirements = ['pytest-runner', 'numpy']
 
-test_requirements = ['pytest>=3', ]
+test_requirements = ['pytest>=3', , 'numpy']
 
 setup(
     author="Robert Luke",
