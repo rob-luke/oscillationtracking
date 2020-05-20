@@ -25,8 +25,7 @@ To load MNE-NIRS add these lines to your script.
 
 .. code:: python
 
-    >>> import mne
-    >>> import mne_nirs
+    >>> import oscillationtracking
 
 
 Usage
