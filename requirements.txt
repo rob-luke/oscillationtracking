@@ -3,7 +3,7 @@ scipy
 matplotlib
 pyqt5<5.14
 pyqt5-sip
-sip
+sip==5.2.0
 scikit-learn
 nibabel
 numba
