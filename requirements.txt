@@ -20,7 +20,7 @@ pytest-timeout
 pytest-xdist
 joblib
 psutil
-dipy
+dipy==1.0.0
 https://github.com/numpy/numpydoc/archive/master.zip
 mayavi
 PySurfer[save_movie]
