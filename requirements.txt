@@ -7,7 +7,7 @@ sip
 scikit-learn
 nibabel
 numba
-h5py
+h5py==2.10.0
 pandas
 numexpr
 python-picard
