@@ -27,7 +27,7 @@ PySurfer[save_movie]
 https://github.com/nilearn/nilearn/archive/master.zip
 neo
 xlrd
-pydocstyle
+pydocstyle==5.0.2
 flake8
 https://github.com/mcmtroffaes/sphinxcontrib-bibtex/archive/29694f215b39d64a31b845aafd9ff2ae9329494f.zip
 imageio>=2.6.1
