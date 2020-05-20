@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-MNE-NIRS
-========
+Oscillation Tracking
+====================
 
 This is a library to assist with processing near-infrared spectroscopy data with MNE.
 
