@@ -5,7 +5,7 @@ pyqt5<5.14
 pyqt5-sip
 sip
 scikit-learn
-nibabel
+nibabel==3.1.0
 numba
 h5py
 pandas
