@@ -1,6 +1,6 @@
 numpy
 scipy
-matplotlib
+matplotlib==3.2.1
 pyqt5<5.14
 pyqt5-sip
 sip
