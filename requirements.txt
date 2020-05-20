@@ -10,7 +10,7 @@ numba
 h5py
 pandas
 numexpr
-python-picard
+python-picard==0.4
 statsmodels
 pytest!=4.6.0,<5.4
 pytest-cov
