@@ -6,7 +6,7 @@
 Oscillation Tracking
 ====================
 
-This is a library to assist with processing near-infrared spectroscopy data with MNE.
+This package processes signals.
 
 
 
