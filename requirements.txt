@@ -25,7 +25,7 @@ https://github.com/numpy/numpydoc/archive/master.zip
 mayavi
 PySurfer[save_movie]
 https://github.com/nilearn/nilearn/archive/master.zip
-neo
+neo==0.7.2
 xlrd
 pydocstyle
 flake8
