@@ -22,7 +22,6 @@ jobs:
       run: |
         git clone https://github.com/rob-luke/oscillationtracking.git --branch gh-pages --single-branch gh-pages
         cp -r doc/_build/html/* gh-pages/
-        cp -r doc/_static gh-pages/
         cd gh-pages
         git config --local user.email "action@github.com"
         git config --local user.name "Robert Luke"
