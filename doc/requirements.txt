@@ -2,7 +2,7 @@ sphinx_gallery
 sphinx_bootstrap_theme
 numpydoc
 matplotlib
-pillow
+pillow==7.1.2
 numpy
 seaborn
 https://github.com/nilearn/nilearn/archive/master.zip
