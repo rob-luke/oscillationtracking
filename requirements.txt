@@ -28,7 +28,7 @@ https://github.com/nilearn/nilearn/archive/master.zip
 neo
 xlrd
 pydocstyle
-flake8
+flake8==3.8.1
 https://github.com/mcmtroffaes/sphinxcontrib-bibtex/archive/29694f215b39d64a31b845aafd9ff2ae9329494f.zip
 imageio>=2.6.1
 imageio-ffmpeg>=0.4.1
