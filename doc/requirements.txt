@@ -1,6 +1,6 @@
 sphinx_gallery
 sphinx_bootstrap_theme
-numpydoc
+numpydoc==0.9.2
 matplotlib
 pillow
 numpy
