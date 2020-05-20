@@ -23,7 +23,7 @@ psutil
 dipy
 https://github.com/numpy/numpydoc/archive/master.zip
 mayavi
-PySurfer[save_movie]
+PySurfer[save_movie]==0.10.0
 https://github.com/nilearn/nilearn/archive/master.zip
 neo
 xlrd
