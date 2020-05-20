@@ -18,7 +18,7 @@ pytest-mock
 pytest-sugar
 pytest-timeout
 pytest-xdist
-joblib
+joblib==0.15.1
 psutil
 dipy
 https://github.com/numpy/numpydoc/archive/master.zip
