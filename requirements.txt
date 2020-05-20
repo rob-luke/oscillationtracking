@@ -13,7 +13,7 @@ numexpr
 python-picard
 statsmodels
 pytest!=4.6.0,<5.4
-pytest-cov
+pytest-cov==2.8.1
 pytest-mock
 pytest-sugar
 pytest-timeout
