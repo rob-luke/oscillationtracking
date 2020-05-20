@@ -1,9 +1,0 @@
-sphinx_gallery
-sphinx_bootstrap_theme
-numpydoc
-matplotlib
-pillow
-numpy
-seaborn
-https://github.com/nilearn/nilearn/archive/master.zip
-https://codeload.github.com/mne-tools/mne-python/zip/master
