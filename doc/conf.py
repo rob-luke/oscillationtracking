@@ -22,7 +22,7 @@ import sphinx
 import os
 
 sys.path.append("../")
-from mne_nirs import __version__  # noqa: E402
+from oscillationtracking import __version__  # noqa: E402
 
 
 
@@ -322,10 +322,10 @@ intersphinx_mapping = {
 
 # sphinx-gallery configuration
 sphinx_gallery_conf = {
-    'doc_module': 'mne_nirs',
+    'doc_module': 'oscillationtracking',
     'backreferences_dir': os.path.join('generated'),
     'reference_url': {
-        'mne_nirs': None},
+        'oscillationtracking': None},
     'download_all_examples': False,
     'show_memory': True
 }
