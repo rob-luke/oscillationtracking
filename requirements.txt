@@ -1,5 +1,5 @@
 numpy
-scipy
+scipy==1.4.1
 matplotlib
 pyqt5<5.14
 pyqt5-sip
