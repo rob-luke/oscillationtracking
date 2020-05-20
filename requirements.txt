@@ -22,7 +22,7 @@ joblib
 psutil
 dipy
 https://github.com/numpy/numpydoc/archive/master.zip
-mayavi
+mayavi==4.6.2
 PySurfer[save_movie]
 https://github.com/nilearn/nilearn/archive/master.zip
 neo
