@@ -80,7 +80,7 @@ plot_gallery = 'True'
 master_doc = 'index'
 
 # General information about the project.
-project = u'MNE-NIRS'
+project = u'Oscillation Tracking'
 copyright = u'2020, Robert Luke'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -149,7 +149,7 @@ html_theme_options = {
     'navbar_links': [
         ("Examples", "auto_examples/index"),
         ("API", "api"),
-        ("GitHub", "https://github.com/mne-tools/mne-nirs", True)
+        ("GitHub", "https://github.com/rob-luke/oscillationtracking.git", True)
     ],
     'bootswatch_theme': "lumen"
 }
@@ -225,7 +225,7 @@ html_show_sourcelink = False
 # html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'mnenirsdoc'
+htmlhelp_basename = 'oscillationdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
