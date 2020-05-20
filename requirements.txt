@@ -15,7 +15,7 @@ statsmodels
 pytest!=4.6.0,<5.4
 pytest-cov
 pytest-mock
-pytest-sugar
+pytest-sugar==0.9.3
 pytest-timeout
 pytest-xdist
 joblib
