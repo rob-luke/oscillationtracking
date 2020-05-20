@@ -19,7 +19,7 @@ pytest-sugar
 pytest-timeout
 pytest-xdist
 joblib
-psutil
+psutil==5.7.0
 dipy
 https://github.com/numpy/numpydoc/archive/master.zip
 mayavi
