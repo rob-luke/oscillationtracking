@@ -10,6 +10,9 @@ UNDER DEVELOPMENT. Please check back over the coming weeks.
 .. image:: https://travis-ci.com/rob-luke/oscillationtracking.svg?branch=master
     :target: https://travis-ci.com/rob-luke/oscillationtracking
     
+.. image:: https://codecov.io/gh/rob-luke/oscillationtracking/branch/master/graph/badge.svg
+    :target: https://codecov.io/gh/rob-luke/oscillationtracking
+
 
 Overview
 --------
