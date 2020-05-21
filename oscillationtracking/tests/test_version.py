@@ -2,8 +2,8 @@
 #
 # License: BSD (3-clause)
 
-import mne_nirs
+import oscillationtracking
 
 
 def test_version():
-    print(mne_nirs.__version__)
+    print(oscillationtracking.__version__)
