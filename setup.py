@@ -7,7 +7,7 @@ import os
 from setuptools import find_packages, setup
 
 # get __version__ from _version.py
-ver_file = os.path.join('mne_nirs', '_version.py')
+ver_file = os.path.join('oscillationtracking', '_version.py')
 with open(ver_file) as f:
     exec(f.read())
 
@@ -17,11 +17,11 @@ with codecs.open('README.rst', encoding='utf-8-sig') as f:
     LONG_DESCRIPTION = f.read()
 MAINTAINER = 'your name'
 MAINTAINER_EMAIL = 'user@mail.edu'
-URL = 'https://github.com/mne-tools/mne-nirs'
+URL = 'https://github.com/rob-luke/oscillationtracking'
 LICENSE = 'new BSD'
-DOWNLOAD_URL = 'https://github.com/mne-tools/mne-nirs'
+DOWNLOAD_URL = 'https://github.com/rob-luke/oscillationtracking'
 VERSION = __version__
-INSTALL_REQUIRES = ['numpy', 'scipy', 'mne']
+INSTALL_REQUIRES = ['numpy', 'scipy']
 CLASSIFIERS = ['Intended Audience :: Science/Research',
                'Intended Audience :: Developers',
                'License :: OSI Approved',
