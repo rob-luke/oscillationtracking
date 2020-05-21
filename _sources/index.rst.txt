@@ -18,10 +18,10 @@ version from github.
 
 .. code:: bash
 
-    >>> pip install https://codeload.github.com/mne-tools/mne-nirs/zip/master
+    >>> pip install https://codeload.github.com/rob-luke/oscillationtracking/zip/master
 
 
-To load MNE-NIRS add these lines to your script.
+To load oscillationtracking add these lines to your script.
 
 .. code:: python
 
@@ -37,8 +37,3 @@ See the `examples <auto_examples/index.html>`_ and `API documentation <api.html>
 Acknowledgements
 ----------------
 
-This package is built on top of many other great packages. These should be acknowledged if you use this package.
-
-MNE: https://mne.tools/dev/overview/cite.html
-
-Nilearn: http://nilearn.github.io/authors.html#citing
