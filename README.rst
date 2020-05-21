@@ -22,7 +22,7 @@ Overview
 Documentation
 -------------
 
-Documentation for this project is hosted `here <https://mne-tools.github.io/mne-nirs>`_.
+Documentation for this project is hosted `here <https://rob-luke.github.io/oscillationtracking/>`_.
 
 
 Examples
