@@ -1,0 +1,6 @@
+oscillationtracking.simulation.sinusoid
+=======================================
+
+.. currentmodule:: oscillationtracking.simulation
+
+.. autofunction:: sinusoid
