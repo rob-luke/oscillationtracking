@@ -1,4 +1,4 @@
-sphinx_gallery
+sphinx_gallery==0.7.0
 sphinx_bootstrap_theme
 numpydoc
 matplotlib
