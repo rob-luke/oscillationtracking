@@ -1,9 +1,9 @@
 sphinx_gallery
 sphinx_bootstrap_theme
 numpydoc
-matplotlib
+matplotlib==3.2.2
 pillow
-numpy==1.18.5
+numpy==1.19.0
 seaborn
 https://github.com/nilearn/nilearn/archive/master.zip
 https://codeload.github.com/mne-tools/mne-python/zip/master
