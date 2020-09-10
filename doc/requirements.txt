@@ -3,7 +3,7 @@ sphinx_bootstrap_theme
 numpydoc==1.1.0
 matplotlib==3.3.1
 pillow
-numpy==1.19.1
+numpy==1.19.2
 seaborn
 https://github.com/nilearn/nilearn/archive/master.zip
 https://codeload.github.com/mne-tools/mne-python/zip/master
