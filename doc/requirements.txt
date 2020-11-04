@@ -1,6 +1,5 @@
 sphinx_gallery==0.8.1
 sphinx_bootstrap_theme
-pillow==7.2.0
 numpydoc==1.1.0
 matplotlib==3.3.2
 pillow==8.0.1
