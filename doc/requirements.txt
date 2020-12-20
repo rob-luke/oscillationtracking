@@ -4,6 +4,6 @@ numpydoc==1.1.0
 matplotlib==3.3.2
 pillow==8.0.1
 numpy==1.19.4
-seaborn==0.11.0
+seaborn==0.11.1
 https://github.com/nilearn/nilearn/archive/master.zip
 https://codeload.github.com/mne-tools/mne-python/zip/master
